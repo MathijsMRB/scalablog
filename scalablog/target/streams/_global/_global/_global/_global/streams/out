@@ -1,0 +1,5 @@
+[debug] [watch] [scalablog / Compile / run] Found inputs: C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\*.{java,scala},C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\src\main\java\**\*.{java,scala},C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\src\main\resources\**\*,C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\src\main\scala\**\*.{java,scala},C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\src\main\scala-2.13\**\*.{java,scala}
+[info] 1. Monitoring source files for scalablog/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().

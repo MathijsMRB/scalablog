@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\project\target\.sbt-compilation-infos\scalablog-compile\.sbt-idea-lock ...
+[error] C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\src\main\scala\Part3\Concurrency.scala:58:1: expected class or object definition
+[error] HelloWorldMain.main(Array.empty)
+[error] ^
+[error] one error found
+[debug] Releasing lock on file C:\Users\mathijs\Desktop\HAN\Jaar 3\ASD\APP\Blog\scalablog\project\target\.sbt-compilation-infos\scalablog-compile\.sbt-idea-lock.
